@@ -1,0 +1,1 @@
+Texto para testar o git pelo terminal no curriculo do "the odin project"
